@@ -5,3 +5,4 @@ The purpose of the model is to help forsee currency exchange rate fluctuations a
 
 # Features: 
 
+## * Predictions Page:
