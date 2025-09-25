@@ -9,3 +9,20 @@ The purpose of the model is to help forsee currency exchange rate fluctuations a
 Users can adjust exchange rates and profit margins to see real-time updates in the table.
 
 Automatic recalculations of revenue, profit per sale, and total profit.
+
+## * Graphs Page:
+Data visualisation for easier interpretation of trends and predictions.
+
+## * Baseline Data Page:
+Stores original reference data for the top 5 cheeses.
+
+## * Navigation & Usability:
+Macro-driven navigation buttons for easy movement between pages.
+
+Profit margin reset button (restores default value).
+
+Drop-down lists for data entry (minimises errors).
+
+Error messages and validation to restrict invalid input.
+
+
