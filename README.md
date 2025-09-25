@@ -6,3 +6,6 @@ The purpose of the model is to help forsee currency exchange rate fluctuations a
 # Features: 
 
 ## * Predictions Page:
+Users can adjust exchange rates and profit margins to see real-time updates in the table.
+
+Automatic recalculations of revenue, profit per sale, and total profit.
