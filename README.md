@@ -25,4 +25,11 @@ Drop-down lists for data entry (minimises errors).
 
 Error messages and validation to restrict invalid input.
 
+# Technical Details: 
+Macros & VBA for navigation buttons and automated functions.
+
+Autofill & Replication to optimise formula entry.
+
+Conditional Formatting to highlight changes (e.g., profit gain = green, loss = red).
+
 
